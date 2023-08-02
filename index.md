@@ -12,8 +12,8 @@
 <img src="images/pls5.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Terminal Ballistics of Stone-Tipped Atlatl Darts and Arrows](/projects/Armature_markdown.html)
+<img src="images/variablesinmodel.png?raw=true"/>
 
 ---
 
