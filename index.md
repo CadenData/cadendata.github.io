@@ -4,8 +4,8 @@
 
 ### Featured Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Climate of Jena, Germany](/projects/jena_climate_2009_2016.html)
+<img src="images/statprojectpic7.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
