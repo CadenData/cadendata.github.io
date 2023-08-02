@@ -13,7 +13,7 @@
 
 ---
 [Terminal Ballistics of Stone-Tipped Atlatl Darts and Arrows](/projects/Armature_markdown.html)
-<img src="images/variableinmodel.png?raw=true"/>
+<img src="images/variablesinmodel.png?raw=true"/>
 
 ---
 
