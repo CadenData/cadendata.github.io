@@ -8,8 +8,8 @@
 <img src="images/diagnosticplots.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Multiple Disabilities Hearing Loss Trajectory](/projects/HearingLearningProject.html)
+<img src="images/pls5.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
