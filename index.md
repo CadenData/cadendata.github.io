@@ -9,7 +9,7 @@
 
 ---
 [Multiple Disabilities Hearing Loss Trajectory](/projects/HearingLearningProject.html)
-<img src="images/pls5.png?raw=true"/>
+<img src="images/ttest.png?raw=true"/>
 
 ---
 [Terminal Ballistics of Stone-Tipped Atlatl Darts and Arrows](/projects/Armature_markdown.html)
