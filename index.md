@@ -5,7 +5,7 @@
 ### Featured Projects
 
 [Climate of Jena, Germany](/projects/jena_climate_2009_2016.html)
-<img src="diagnosticplots.png?raw=true"/>
+<img src="images/diagnosticplots.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
