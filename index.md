@@ -22,8 +22,5 @@
 - [Agrarian Sustainability](/projects/AgrarianSustainability.html)
 - [Inundation Vegetation](/projects/Inundation_Vegetation.html)
 - [Asteroid Danger Bayes](/projects/Asteroid_danger_bayes.html)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
 
 ---
